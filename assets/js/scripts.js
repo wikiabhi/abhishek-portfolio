@@ -1,7 +1,7 @@
 /*
 Theme Name: IAMX
-Author: Trendy Theme
-Author URL: trendytheme.net
+Author: Abhishek
+Author URL: wikiabhi.me
 */
 
 /*
