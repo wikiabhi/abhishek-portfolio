@@ -557,6 +557,10 @@ SOCIAL ICON
 
 
 /* === About Section === */
+.biography a{
+    color: rgb(0,0,0);
+}
+
 .short-info {
     margin-bottom: 40px;
 }
